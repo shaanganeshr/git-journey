@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Passing by default\" && exit 0"
+    "test": "echo \"No tests written for git-journey yet! Passing by default.\" && exit 0",
+    "lint": "echo \"No linting required yet.\" && exit 0",
+    "build": "echo \"No build step required yet.\" && exit 0"
   },
   "repository": {
     "type": "git",
