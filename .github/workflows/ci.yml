@@ -26,7 +26,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-          cache: 'npm' # This simple flag uses actions/cache under the hood!
+          cache: false #'npm' # This simple flag uses actions/cache under the hood!
 
       # Step 3: Install dependencies cleanly
       - name: Install Dependencies
