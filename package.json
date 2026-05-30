@@ -1,0 +1,21 @@
+{
+  "name": "git-journey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Passing by default\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaanganeshr/git-journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shaanganeshr/git-journey/issues"
+  },
+  "homepage": "https://github.com/shaanganeshr/git-journey#readme"
+}
